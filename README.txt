@@ -16,7 +16,7 @@ DivideTusAudios es una aplicación web que te permite dividir archivos de audio 
 - Otros requisitos específicos del proyecto (bibliotecas, paquetes, etc.)
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/DivideTusAudios.git`
+1. Clona este repositorio: `git clone https://github.com/audiodivisor/audiodivisor.git`
 2. Ve al directorio del proyecto: `cd DivideTusAudios`
 3. Instala las dependencias: `pip install -r requirements.txt`
 4. Configura la base de datos en `settings.py`.
